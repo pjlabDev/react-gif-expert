@@ -1,2 +1,3 @@
-# react-gif-expert
+# GifAppExpert
 App to learn React! 
+s
