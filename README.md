@@ -1,3 +1,2 @@
 # GifAppExpert
-App to learn React! 
-s
+App to learn React!
